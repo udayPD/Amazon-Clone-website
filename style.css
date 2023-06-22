@@ -207,7 +207,7 @@ font-size: 0.85rem;
 .foot-panel2 {
     background-color: #222f3d;
     color: white;
-    height: 500px;
+    height: 300px;
     display: flex;
     justify-content: space-evenly;
    
@@ -222,7 +222,7 @@ ul {
 ul a{
     display: block;
     font-size: 0.85rem;
-    margin-top:10px ;
+    margin-top:15px ;
     color: #dddddd;
 }
 
